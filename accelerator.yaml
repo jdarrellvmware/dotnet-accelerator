@@ -1,11 +1,15 @@
 accelerator:
-  displayName: PSNSY .NET Web API
+  displayName: PSNS .NET Web API
   description: An enterprise template for building .NET applications in C#
   #iconUrl: https://iconape.com/wp-content/files/km/370669/svg/370669.svg
   iconUrl: https://www.navsea.navy.mil/portals/103/Images/PSNSY_IMF/images/Logo_round_color_200_by_200.jpg?ver=2019-03-21-123258-380
   tags:
   - C#
   - project
+  - puget
+  - sound
+  - psns
+  - psnsy
   options:
   - name: namespace
     label: Namespace
